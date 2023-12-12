@@ -1,5 +1,5 @@
-/*³ÌĞòÃû£º3.2.cpp
-*¹¦ÄÜ£º200ÄÚËØÊı*/
+/*ç¨‹åºåï¼š3.2.cpp
+åŠŸèƒ½ï¼šå‰ä¸¤ç™¾ä¸ªç´ æ•°*/
 #include<iostream>
 using namespace std;
 bool is_prime(int num)
