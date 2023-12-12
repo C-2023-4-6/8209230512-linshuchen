@@ -1,5 +1,5 @@
-/*程序名：3.2.cpp
-*功能：200内素数*/
+/*鲁脤脨貌脙没拢潞3.2.cpp
+*鹿娄脛脺拢潞200脛脷脣脴脢媒*/
 #include<iostream>
 using namespace std;
 bool is_prime(int num)
