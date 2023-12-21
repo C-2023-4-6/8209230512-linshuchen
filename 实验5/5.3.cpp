@@ -24,16 +24,16 @@ public:
 	{
 		int v;
 		v = (length * heigth * width);
-		cout << "体积是：" << v<<endl;
+		cout << "The volume is:" << v<<endl;
 		return v;
 	}
 };
 int main() {
 	changfx c1, c2, c3;
 	c1.Enter();
-	cout << " 第二个:" <<endl;
+	cout << " Enter the first:" <<endl;
 	c2.Enter();
-	cout << "第三个:"<<endl;
+	cout << "Enter the second:"<<endl;
 	c3.Enter();
 	c1.solve();
 	c2.solve();
