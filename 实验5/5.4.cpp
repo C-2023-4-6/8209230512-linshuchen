@@ -38,5 +38,5 @@ int main()
 	{
 		cout << i+1 <<"\t"<< s[i].SC() << "\n";
 	}
-	cout<<"最大成绩的学号："<<max(s);
+	cout<<"The max sudents number is"<<max(s);
 }
